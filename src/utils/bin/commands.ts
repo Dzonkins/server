@@ -140,7 +140,7 @@ export const sudo = async (args?: string[]): Promise<string> => {
 
 // Banner
 export const banner = (args?: string[]): string => {
-  return `
+  return `      
  █████   █████                                                                        
 ░░███   ░░███                                                                         
  ░███    ░███   ██████  █████████████    ██████  ████████   ██████    ███████  ██████ 
@@ -149,9 +149,9 @@ export const banner = (args?: string[]): string => {
  ░███    ░███ ░███ ░███ ░███ ░███ ░███ ░███░░░   ░███ ░███ ███░░███ ░███ ░███░███░░░  
  █████   █████░░██████  █████░███ █████░░██████  ░███████ ░░████████░░███████░░██████ 
 ░░░░░   ░░░░░  ░░░░░░  ░░░░░ ░░░ ░░░░░  ░░░░░░   ░███░░░   ░░░░░░░░  ░░░░░███ ░░░░░░  
-                                                        ░███                ███ ░███         
-                                                      █████              ░░██████          
-                                                     ░░░░░                ░░░░░░           
+                                                 ░███                ███ ░███         
+                                                 █████              ░░██████          
+                                                ░░░░░                ░░░░░░                                                       
 
 Type 'help' to see the list of available commands.
 Type 'sumfetch' to display summary.
