@@ -17,7 +17,7 @@
     "patreon": "patreon"
   },
   "colors": {
-  "dark": {
+    "dark": {
       "background": "#2E3440",
       "foreground": "#E5E9F0",
       "yellow": "#5E81AC",
@@ -27,4 +27,4 @@
       "red": "#BF616A"
     }
 }
-}
+
