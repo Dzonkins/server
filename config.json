@@ -4,17 +4,17 @@
   "name": "Dzoni",
   "ascii": "server",
   "social": {
-    "github": "github",
+    "github": "https://github.com/Dzonkins",
     "linkedin": "linkedin"
   },
   "email": "contact@email.com",
   "ps1_hostname": "server",
   "ps1_username": "dzoni",
   "repo": "https://github.com/Dzonkins/server",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "resume_url": "resume",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "paypal",
+    "patreon": "patreon"
   },
   "colors": {
     "light": {
