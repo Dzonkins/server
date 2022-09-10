@@ -28,6 +28,12 @@ export const repo = async (args: string[]): Promise<string> => {
   return 'Opening Github repository...';
 };
 
+export const dashboard = async (args: string[]): Promise<string> => {
+  window.open(`http://192.168.0.23:8500`);
+
+  return 'Opening dashboard...';
+};
+
 // About
 export const about = async (args: string[]): Promise<string> => {
   return `Hi, I am ${config.name}. 
